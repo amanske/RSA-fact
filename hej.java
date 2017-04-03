@@ -1,3 +1,4 @@
+//http://stackoverflow.com/questions/2921406/calculate-primes-p-and-q-from-private-exponent-d-public-exponent-e-and-the
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.math.*;
@@ -17,7 +18,7 @@ public class Main {
 			BigInteger sqrtN = new BigInteger(sqrt(modN));
 
 
-			
+
 		}
 	}
 }
